@@ -1,4 +1,3 @@
-# ATM-machine-python
 
 # ATM Machine — Python Console Application
 
